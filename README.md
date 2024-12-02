@@ -1,5 +1,13 @@
 ## 윤다은
 
+### 교육 현황
+- 서강대학교 영미어문, 컴퓨터공학: 2019.03-2024.08
+- Samsung Software Academy For Youth: 2024.07~
+
+### SSAFY
+- 월말평가 상위 4% 2회, 8% 1회
+- 1학기 파이널 프로젝트 우수 (2등)
+
 ### 목록
 - Algorithm
 - Bodam Project
